@@ -10,7 +10,23 @@
 * Erlang Client
     * Get [Erlang Client Here](https://www.rabbitmq.com/erlang-client.html)
 
+* NodeJS > 10 & NPM
+    * Get [NodeJS Here](https://nodejs.org/en/download/)
 
+
+## RabbitMQ Web Interface
+    * Once RabbitMQ and Erlang is installed and Running, Visit `http://localhost:15672/` for Web Interface
+    * Default Login, `username: guest`  and  `password: guest`
+    * Check "Exchnage" and "Queues" Tab once NodeJs app started running.
+        * Exchnage: `testExchnage`
+        * Queue: `queueName`
+    * Queue is where all Published messages count listed and status for the Exchange `testExchange`.
+
+## Install NPM Packages of NodeJs Test Application
+    * `npm install`
+## Run NodeJs Server
+    * `npm start`
+    * NodeJs Application will start on port 3000
 ## POST/
 http://localhost:3000?mode=start
 
