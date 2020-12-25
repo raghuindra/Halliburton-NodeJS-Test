@@ -22,6 +22,7 @@ http://localhost:3000/
 
 Response:
 {"status":"Running","topic":{"message":"b21trm","id":"2020-12-24T22:23:24.325Z"}}
+
 {"status":"Stopped","topic":{"message":"r34bao","id":"2020-12-24T22:34:13.325Z"}}
 
 ===================================================================
