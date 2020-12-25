@@ -8,7 +8,7 @@
     * To Get Started With RabbitMQ, [Visit Here](https://www.rabbitmq.com/getstarted.html)
 
 * Erlang Client
-Get [Erlang Client Here](https://www.rabbitmq.com/erlang-client.html)
+    * Get [Erlang Client Here](https://www.rabbitmq.com/erlang-client.html)
 
 
 ## POST/
