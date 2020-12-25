@@ -3,9 +3,9 @@
 ## Pre Requisite
 * RabbitMQ
 
- Get [RabbitMQ Here](https://www.rabbitmq.com/download.html)
+    -- Get [RabbitMQ Here](https://www.rabbitmq.com/download.html)
 
- To Get Started With RabbitMQ, [Visit Here](https://www.rabbitmq.com/getstarted.html)
+    -- To Get Started With RabbitMQ, [Visit Here](https://www.rabbitmq.com/getstarted.html)
 
 * Erlang Client
 Get [Erlang Client Here](https://www.rabbitmq.com/erlang-client.html)
